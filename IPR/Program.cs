@@ -52,4 +52,4 @@ string [] strings;
 strings = new string [line];
 
 DefinitionOfStringArray(line, strings);
-DefinitionAndOutPutOfResultStrings (line, strings);
+DefinitionAndOutPutOfResultStrings(line,strings);
